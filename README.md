@@ -7,7 +7,7 @@ This is my implementation of a peer-to-peer chat application that I built using 
 - port ranges that are changeable
 - messaging in real-time
 
-# Please install node.js on system to use this
+# Please install node.js on system to operate
 - npm install
 - npm start
 - npm install (dependency names, i.e. crypto - "npm install crypto", etc.)
